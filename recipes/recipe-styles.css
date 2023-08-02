@@ -1,0 +1,22 @@
+body {
+    font-family: "Times New Roman", "Courier New", Ariel;
+    background-color: rgb(21, 21, 58);
+    color: white;
+}
+
+h1, img {
+    text-align: center;
+    width: 60%;
+}
+
+img {
+    -moz-box-shadow: 0 0 5px #00b7ff;
+    -webkit-box-shadow: 0 0 5px #00b7ff;
+    box-shadow: 0px 0px 7px #00b7ff;
+}
+
+h1,
+h2 {
+    text-decoration-line: underline;
+}
+
